@@ -1,0 +1,47 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
+.flagCZ {
+  height: 30px;
+  width: 43px;
+  padding-left: 1vh;
+}
+
+.flagGB {
+  height: 30px;
+  width: 43px;
+  padding-left: 1vh;
+}
+
+.selectLen {
+  display: flex;
+  margin-top: 2vh;
+}
+
+.addList {
+  display: flex;
+  justify-content: center;
+  
+}
